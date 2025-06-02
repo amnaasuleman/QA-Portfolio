@@ -1,6 +1,6 @@
-# Quranly App - Self-Initiated Manual Testing Project
+# Quranly App - Manual Testing Project
 
-This project is part of my QA learning journey. I chose the Quranly app — a popular Islamic habit-tracking app — to practice real-world manual testing. All testing was done independently without affiliation to the Quranly team.
+This project is part of my QA learning journey. I chose the Quranly app, a popular Islamic habit-tracking app, to practice real-world manual testing. All testing was done independently without affiliation to the Quranly team.
 
 ---
 
